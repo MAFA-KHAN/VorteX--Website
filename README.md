@@ -1,6 +1,6 @@
 # 🔌 VORTEX – Digital Gadget Store (Frontend Only)
 
-**VORTEX** is a clean, modern frontend e-commerce website designed to simulate a digital gadget store. Developed as part of the AICT Final Exam, it demonstrates essential concepts of responsive web design and UI structuring using HTML, CSS, and JavaScript.
+**VORTEX** is a clean, modern frontend e-commerce website designed to simulate a digital gadget store. Developed as part of  AICT Project, it demonstrates essential concepts of responsive web design and UI structuring using HTML, CSS, and JavaScript.
 
 ---
 
